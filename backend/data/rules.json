@@ -1,0 +1,17 @@
+{
+ "shapes": {
+  "pear": {"prefer":{"top":["structured","boat","fitted"],"bottom":["aline","wide","highwaist"],"dress":["aline","fitandflare"]},"avoid":{"bottom":["skinny"]},"tip":"balance hips with structured shoulders and A-line skirts"},
+  "apple": {"prefer":{"top":["empire","vneck","flowy"],"bottom":["straight","wide"],"dress":["empire","aline","wrap"]},"avoid":{"top":["clingy"]},"tip":"empire lines and V-necks elongate the torso"},
+  "hourglass": {"prefer":{"top":["fitted","wrap"],"bottom":["highwaist","pencil","fitted"],"dress":["wrap","bodycon","fitandflare"]},"avoid":{"top":["boxy"]},"tip":"define the waist to follow your natural curves"},
+  "rectangle": {"prefer":{"top":["peplum","ruffle","layered"],"bottom":["aline","pleated","flared"],"dress":["belted","fitandflare","wrap"]},"avoid":{"dress":["column"]},"tip":"add volume and waist definition to build curves"},
+  "inverted": {"prefer":{"top":["vneck","simple"],"bottom":["wide","aline","flared"],"dress":["aline","fitandflare"]},"avoid":{"top":["padded"]},"tip":"let the lower half carry volume to balance broad shoulders"}
+ },
+ "undertones": {
+  "warm": {"hues":[[0,70],[80,150],[340,360]],"label":"warm autumn/spring palette"},
+  "cool": {"hues":[[170,300],[320,360]],"label":"cool winter/summer palette"},
+  "neutral": {"hues":[[0,360]],"label":"flexible neutral palette"}
+ },
+ "occasions": {"casual":1,"college":2,"work":3,"birthday":3,"party":3,"date":4,"anniversary":4,"wedding":5},
+ "fabricWarmth": {"linen":1,"cotton":1,"silk":1,"chiffon":1,"satin":1,"denim":2,"polyester":2,"knit":3,"wool":3,"velvet":3,"leather":3},
+ "rainAvoid": ["silk","chiffon","suede","satin"]
+}
